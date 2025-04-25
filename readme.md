@@ -33,6 +33,7 @@ Monitorar a luminosidade do ambiente onde os vinhos são armazenados, acionando 
 
 3. Faça o upload do seguinte código:
 
+```cpp
 // Declaração dos pinos conectados aos componentes
 int ledVermelho = 4;
 int ledAmarelo = 3;
