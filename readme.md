@@ -103,7 +103,7 @@ void loop()
 
   delay(500); // Pequeno delay para evitar excesso de leitura
 }
-
+```
 
 ## 👥 Integrantes
 
